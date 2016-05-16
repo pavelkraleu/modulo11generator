@@ -1,6 +1,6 @@
 ![](https://github.com/jankolario/modulo11generator/blob/master/cover.png?raw=true)
 
-## TLDR
+## TL;DR
 * Kde: Praha (Na Poříčí 22)
 * Kdy: Červen - Praha
 * Na čem: Vývoj Jack pro CZ, SK, DE, PL
@@ -11,8 +11,8 @@ Jack je on demand printing projekt napojený na desítky tiskařských strojů B
 
 ## O čem to bude:
 
-*  rozvoj back-endu napojeného na desítky tiskařských strojů Brother GT-3, který zvládne vytisknout stovky triček denně.​
-*  automatizace desítky tisíc reklam
+* rozvoj back-endu napojeného na desítky tiskařských strojů Brother GT-3, který zvládne vytisknout stovky triček denně.​
+* automatizace desítky tisíc reklam
 * rozvoj ecommerce projektu pro Česko, Slovensko, Polsko a Německo
 * Práci se zkušený týmem (Stojíme za těmito projekty: Techsquat, Bitbrno, Bileto)​
   * [Pavel Král](http://github.com/pavelkraleu)
@@ -26,9 +26,9 @@ Jack je on demand printing projekt napojený na desítky tiskařských strojů B
 * Geek factor 🤓
 
 ## Buzzwords:
-Python, Flask, AngularJS, HTML5, GAE, Jinja
+```Python, Flask, AngularJS, HTML5, GAE, Jinja```
 
 ### Kontakt
 Pojdmě se potkat na:
 jan@jack.cz
-+420.775272827
++420 775 272 827
