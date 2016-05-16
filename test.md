@@ -2,7 +2,7 @@
 
 ## TLDR
 * Kde: Praha (Na Poříčí 22)
-* Kdy: Červen - Prosinec
+* Kdy: Červen - Praha
 * Na čem: Vývoj Jack pro CZ, SK, DE, PL
 * Plat: 50 000 - 85 000 CZK
 
@@ -19,64 +19,16 @@ Jack je on demand printing projekt napojený na desítky tiskařských strojů B
   * [Vladimír Mokrý](http://vmokry.com)
   * Jan Antonín Kolář – linkedin.com/in/janantoninkolar
 
-Požadujeme
-Velmi dobrou znalost Pythonu Mindset člověka, který se nebojí robíjet věci Přítomnost v Praze
-Geek factor
+## Co bys měl mít:
+* Velmi dobrou znalost Pythonu
+* Mindset člověka, který se nebojí robíjet věci
+* Přítomnost v Praze
+* Geek factor 🤓
 
-Technický stack:
+## Buzzwords:
 Python, Flask, AngularJS, HTML5, GAE, Jinja
 
-## požaduje
-
-### Contact
-Zaujalo? Pojdmě se
+### Kontakt
+Pojdmě se potkat na:
 jan@jack.cz
 +420.775272827
-Trollman: trollman_at_gmail_dot_com (mobile number optional)
-
-It will be blast.
-
-[link to Google!](http://google.com)
-
-- George Washington
-- John Adams
-- Thomas Jefferson
-👍
-## Location
-
-* Saigon, Vietnam
-* Remote
-
-## Salary Expectation
-
-* $????/month or negotiable
-
-## Requirements
-* Ruby
-* Lotus Framework
-* PostgreSQL
-* 5+ years Software Engineering experience
-
-## Skills
-
-### Must Have
-
-* Be able to fly
-* Be able to dodge bullet
-
-### Ideally
-
-* Experience with
-
-### Responsibilities
-
-Great power comes with great responsibilities!
-
-### You’ll be responsible for
-
-* Building a new Facebook
-
-### You can bring
-
-* A good eyes for design
-* A good analyis skill
