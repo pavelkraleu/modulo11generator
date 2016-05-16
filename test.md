@@ -1,6 +1,6 @@
-![](https://photos-2.dropbox.com/t/2/AACsEGHr25eySvDmk3PGA9DT6XdzV3p-26Q7QtQ8hTeNLg/12/37819243/png/32x32/1/_/1/2/facebook_opengraph.png/EO3S5hwY-84EIAIoAg/CVwB1TVvMZGk0NCuoyp7Pblg_Fj7xvQB9CNvKDw1yog?size=1600x1200&size_mode=3)
+![](https://github.com/jankolario/modulo11generator/blob/master/cover.png?raw=true)
 ## Proč Jack.cz
-Jack je on demand printing řešení, které je napojené na desítky tiskařských strojů Brother GT-3 a několik dopravců. Použitá technologie umožňuje prodávat miliony položek v eshopu (trička, mikiny, hrnky), neboť se zhmotnňují až po objednávce. Projekt jsme založili ve třech lidech  v květnu 2015, úspěšně otestovali v ČR a jdeme do Evropy. Co nás liší od ostatníh projektů: děláme fyzický produkt (výsledy své práce uvidíš doslova na ulici), spravujeme opravdu velký objem reklamy (konvenční nástroje nám nestačí) a jsme self-funded.
+Jack je on demand printing projekt napojený na desítky tiskařských strojů Brother GT-3 a několik dopravců. Použitá technologie umožňuje prodávat miliony položek v eshopu (trička, mikiny, hrnky...) s minimálními skladovými náklady, neboť se zhmotnňují až po objednávce. Projekt jsme založili ve třech lidech  v květnu 2015, úspěšně otestovali v ČR a jdeme do Evropy. Co nás liší od ostatníh projektů: děláme fyzický produkt (výsledy své práce uvidíš doslova na ulici), spravujeme opravdu velký objem reklamy (konvenční nástroje nám nestačí) a často experimentujeme.
 
 ## O čem to bude:
 
